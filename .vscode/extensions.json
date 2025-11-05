@@ -1,0 +1,7 @@
+{
+  // Politely discourage installing/enabling Copilot in this workspace
+  "unwantedRecommendations": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat"
+  ]
+}
